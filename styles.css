@@ -16,7 +16,7 @@ html {
 }
 body {
 	margin: 0px;
-	background: radial-gradient(#9d5900, #3d2200);
+	background: radial-gradient(#159130, #3d2200);
 }
 
 .page-title {
@@ -33,7 +33,7 @@ body {
 }
 .game-info {
 	font-family: Lunacy, serif;
-	color: #ffbb89;
+	color: #159130;
 	font-size: 4em;
 }
 .game-container {
@@ -128,7 +128,7 @@ body {
 .card-front {
 	transform: rotateY(180deg);
 	border-color: #333;
-	background-color: #ffbb89;
+	background-color: #159130;
 }
 .card-value {
 	transition: transform 100ms ease-in-out;
